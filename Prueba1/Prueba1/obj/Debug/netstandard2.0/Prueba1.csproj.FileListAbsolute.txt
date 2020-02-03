@@ -1,0 +1,13 @@
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\bin\Debug\netstandard2.0\Prueba1.deps.json
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\bin\Debug\netstandard2.0\Prueba1.dll
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\bin\Debug\netstandard2.0\ref\Prueba1.dll
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\bin\Debug\netstandard2.0\Prueba1.pdb
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\Prueba1.csprojAssemblyReference.cache
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\Prueba1.AssemblyInfoInputs.cache
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\Prueba1.AssemblyInfo.cs
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\Prueba1.dll
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\ref\Prueba1.dll
+C:\Users\vladi\source\repos\Prueba1\Prueba1\Prueba1\obj\Debug\netstandard2.0\Prueba1.pdb

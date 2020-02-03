@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Prueba1.MainPage">
+
+    <!--<StackLayout Padding="40,40" >
+
+        <Label  Text="Login" 
+                FontSize="40"
+                HorizontalOptions="Start"
+                FontAttributes="Bold"
+                TextColor="Black"/>
+        <Label FontSize="20"
+                Margin="135,-37,0,0"
+                HorizontalOptions="End"
+               Text="Sign up"/>
+        <Image Source="USUA"
+               HorizontalOptions="Center"
+               HeightRequest="150"/>
+        <Entry 
+               Placeholder="Username or email address"/>
+        <Entry 
+            Placeholder="Password"/>
+        <Button Text="Log in"
+                HorizontalOptions="Center"
+                WidthRequest="300"
+                Margin="0,50,0,0"
+                />
+        <Label Text=" Login with"
+               HorizontalOptions="Center"
+               Margin="0,60,0,0"
+               />
+        <Image Source="Gmail"
+               HeightRequest="35"
+               HorizontalOptions="Start"
+               Margin="30,0,0,0"
+               />
+        <Image Source="Github"
+               HeightRequest="45"
+               Margin="-90,-40,0,0"/>
+        <Image Source="tuita"
+               HeightRequest="45"
+               HorizontalOptions="Center"
+               Margin="50,-55,0,0"/>
+        <Image Source="Facebook"
+               HeightRequest="50"
+               Margin="200,-53,0,0"/>
+    </StackLayout>-->
+    <StackLayout Padding="40,40">
+        
+        <Label  Text="Sign up" 
+                FontSize="40"
+                HorizontalOptions="Start"
+                FontAttributes="Bold"
+                TextColor="Black"/>
+        
+        <Label FontSize="20"
+                HeightRequest="100"
+                Margin="135,-37,0,0"
+                HorizontalOptions="End"
+               Text="Login"/>
+        
+        <Image Source="Cam"
+               HorizontalOptions="Center"
+               HeightRequest="150"/>
+        <Entry 
+               Placeholder="Email address"/>
+        
+        <Entry 
+            Placeholder="Username"/>
+        <Entry 
+            Placeholder="Password"/>
+        <Entry 
+            Placeholder="Repeat Password"/>
+        
+        <Button Text="Sign up"
+                HorizontalOptions="Center"
+                WidthRequest="300"
+                Margin="0,50,0,0"
+                />
+        
+        <Label Text="Terms of service"
+               HorizontalOptions="Center"
+               Margin="0,60,0,0"
+               />
+
+    </StackLayout>
+
+</ContentPage>
